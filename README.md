@@ -1,0 +1,2 @@
+# Equalizador-Histograma
+ 
